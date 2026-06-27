@@ -23,7 +23,7 @@ Each number is displayed for a short delay before changing to the next.
 Connect the Seven Segment Display to the Arduino.
 Upload the Arduino code.
 Power the Arduino using USB.
-The display will continuously count from 0 to 9.
+The display will continuously count  from 0 to 9.
 
 ## 📚 Applications
 Digital Counters
