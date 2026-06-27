@@ -42,7 +42,7 @@ Easy hardware setup
 🎥 Demo Video
 (https://drive.google.com/file/d/1T9KND5jO_K6WznqvLwl43l5SeFIPhAMM/view?usp=drivesdk)
 ## Project Image
-(no2.png)
-(no4.png)
+![project image](no2.png)
+![project image](no4.png)
 👩‍💻 Developed By
 Sadhana
