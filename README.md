@@ -7,11 +7,11 @@ Learn digital output interfacing with Arduino.
 Understand how LEDs inside a Seven Segment Display work.
 
 ## 🛠 Components Required
-Arduino Uno/Nano
-Seven Segment Display (Common Cathode)
-220Ω Resistors (7)
-Breadboard
-Jumper Wires
+Arduino Uno/Nano,
+Seven Segment Display (Common Cathode),
+220Ω Resistors (7),
+Breadboard,
+Jumper Wires,
 USB Cable
 
 ## ⚙ Working Principle
@@ -26,16 +26,16 @@ Power the Arduino using USB.
 The display will continuously count  from 0 to 9.
 
 ## 📚 Applications
-Digital Counters
-Electronic Scoreboards
-Digital Clocks 
-Number Display Systems
-Embedded Systems Learning
+Digital Counters,
+Electronic Scoreboards,
+Digital Clocks, 
+Number Display Systems,
+Embedded Systems Learning,
 
 ## 🚀 Features
-Displays digits from 0–9
-Simple Arduino implementation
-Beginner-friendly project
+Displays digits from 0–9,
+Simple Arduino implementation,
+Beginner-friendly project,
 Easy hardware setup
 
 ## Example:
