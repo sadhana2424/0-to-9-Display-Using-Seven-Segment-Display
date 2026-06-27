@@ -28,7 +28,7 @@ The display will continuously count from 0 to 9.
 ## 📚 Applications
 Digital Counters
 Electronic Scoreboards
-Digital Clocks
+Digital Clocks 
 Number Display Systems
 Embedded Systems Learning
 
