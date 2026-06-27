@@ -38,15 +38,11 @@ Simple Arduino implementation
 Beginner-friendly project
 Easy hardware setup
 
-## 🖼 Hardware Setup
-Add your hardware connection photo here
-
 ## Example:
-Hardware_Setup.jpg
 🎥 Demo Video
 (https://drive.google.com/file/d/1T9KND5jO_K6WznqvLwl43l5SeFIPhAMM/view?usp=drivesdk)
 ## Project Image
-(number2.jpeg)
-(digitalnumber.jpeg)
+(number2.png)
+(digitalnumber.png)
 👩‍💻 Developed By
 Sadhana
